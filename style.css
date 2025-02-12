@@ -8,5 +8,36 @@ h1 {
   color: antiquewhite;
 }
 
+.color2 {
+  color: rgb(255, 0, 170);
+  font-size: 18px;
+}
+
+.color3 {
+  color: rgb(89, 57, 78);
+  font-size: 13px;
+}
+
+.color4 {
+  color: rgb(11, 144, 184);
+  font-size: 13px;
+}
+
+.color5 {
+  color: rgb(59, 141, 54);
+  font-size: 13px;
+}
+
+.color6 {
+  color: rgb(67, 0, 200);
+  font-size: 13px;
+}
+
+.color7 {
+  color: rgb(42, 29, 79);
+  font-size: 13px;
+}
+
 p {
+  font-family: Arial, Helvetica, sans-serif;
 }
